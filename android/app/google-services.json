@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "940744320448",
+    "firebase_url": "https://vodex-logic-default-rtdb.firebaseio.com",
+    "project_id": "vodex-logic",
+    "storage_bucket": "vodex-logic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940744320448:android:2529ea2fbd3fde90809425",
+        "android_client_info": {
+          "package_name": "com.vodex.logic_study"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKc22t59yfiFSjG1sNmly7GT9OH1DiX18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

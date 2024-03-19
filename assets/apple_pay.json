@@ -1,0 +1,14 @@
+{
+    "provider": "apple_pay",
+    "data": {
+      "merchantIdentifier": "merchant.com.karrar.shamsia",
+      "displayName": "Shamsia",
+      "merchantCapabilities": ["3DS", "debit", "credit"],
+      "supportedNetworks": ["amex", "visa", "discover", "masterCard"],
+      "countryCode": "IQ",
+      "currencyCode": "IQD",
+      "requiredBillingContactFields": ["emailAddress", "name", "phoneNumber"],
+      "requiredShippingContactFields": [],
+      "shippingMethods": []
+    }
+  }

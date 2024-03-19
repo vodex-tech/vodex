@@ -1,0 +1,21 @@
+name: datasource
+description: Dart package which manages save and restore data.
+publish_to: none
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_database: ^10.3.3
+  cloud_firestore: any
+  uuid: ^4.1.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
